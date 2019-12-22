@@ -8,7 +8,7 @@ This project has 3 main folders:
 * __angular-new-login:__ This project stores the Angular login application, it also has the routing to show the login or the rest of the application.
 * __micro-front-end-vue-react:__ This project uses Single-SPA, (yes, is a redundant name), to integrate Vue and React in the same project. 
     *   __TO-DO app React:__ This TO-DO app is capable of performig CRUD operations thanks to the express backend.
-    *   __Weather-widget Vue:__ This widget made in Vue is basically a form that you submit with a city and it tells you the current weather there.
+    *   __Weather-widget Vue:__ This widget made in Vue is basically a form were you submit a city and it tells you the current weather there.
 
 * __express-back:__ The backend of the application developed in NodeJS + express it serves the endpoints used by the React TO-DO app and communicates with MongoDB.
 Runs on port 4000
