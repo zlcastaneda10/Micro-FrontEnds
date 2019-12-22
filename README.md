@@ -1,4 +1,4 @@
-# Interns Front Challenge 2019
+# Micro Front-Ends Challenge 2019
 The objective of this project was to create a single page application with the microfrontends arquitecture, usign Single-SPA to combine different frameworks such as React, Vue and Angular. 
 
 
