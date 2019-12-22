@@ -1,5 +1,5 @@
 # Interns Front Challenge 2019
-The idea was to create a single page application with the microfrontends arquitecture, usign Single-SPA to combine different frameworks such as React, Vue and Angular. 
+The objective of this project was to create a single page application with the microfrontends arquitecture, usign Single-SPA to combine different frameworks such as React, Vue and Angular. 
 
 
 ## Project structure
@@ -19,5 +19,8 @@ The SPA application can run on its own on http://localhost:8080
 
 The backend runs on http://localhost:4000/api/tasks/ and accepts CRUD operations 
 
+## Screenshot
+Here is an example of how the app looks like
 
+![](https://i.imgur.com/0uQSdGI.jpg)
 
